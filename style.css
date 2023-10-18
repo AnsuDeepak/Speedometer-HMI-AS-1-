@@ -15,11 +15,11 @@
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
     max-width: 400px;
-    color: #000; /* Black text color for readability */
+    color: #000; 
 }
 
 h1, p {
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Adds a subtle text shadow for the "glittery" effect */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
 }
 /* CSS for Speedometer */
 .speedometer-container {
