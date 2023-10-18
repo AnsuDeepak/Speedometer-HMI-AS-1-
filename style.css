@@ -25,7 +25,7 @@ h1, p {
 .speedometer-container {
     width: 300px;
     height: 300px;
-    border: 3px solid wood;
+    border: 3px #382A1E;
     border-radius: 50%;
     margin: 50px auto;
     position: relative;
@@ -45,7 +45,7 @@ h1, p {
 .speedometer-scale {
     width: 8px;
     height: 280px;
-    background-color: wood;
+    background-color: #382A1E;
     position: absolute;
     left: 143px;
     top: 7px;    
@@ -213,7 +213,7 @@ h1, p {
 .arrow {
     width: 110px;
     height: 4px;
-    background-color: wood;
+    background-color: #382A1E;
     position: absolute;
     top: 78px;
     left: -30px;
