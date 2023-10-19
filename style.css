@@ -113,61 +113,61 @@ h1, p {
 }
 
 .speedometer-scale-1.active {
-    background-color: green;
+    background-color: #800000;
 }
 .speedometer-scale-2.active {
-    background-color: rgb(8, 181, 8);
+    background-color: #800000;
 }
 .speedometer-scale-3.active {
-    background-color: rgb(21, 202, 21);
+    background-color: #800000;
 }
 .speedometer-scale-4.active {
-    background-color: rgb(43, 244, 43);
+    background-color:#800000;
 }
 .speedometer-scale-5.active {
-    background-color: rgb(79, 251, 79);
+    background-color: #800000;
 }
 .speedometer-scale-6.active {
-    background-color: rgb(133, 251, 79);
+    background-color: #800000;
 }
 .speedometer-scale-7.active {
-    background-color: rgb(199, 251, 79);
+    background-color: #800000;
 }
 .speedometer-scale-8.active {
-    background-color: rgb(228, 251, 79);
+    background-color: #800000;
 }
 .speedometer-scale-9.active {
-    background-color: rgb(251, 251, 79);
+    background-color: #800000;
 }
 .speedometer-scale-10.active {
-    background-color: rgb(251, 234, 79);
+    background-color: #800000;
 }
 .speedometer-scale-11.active {
-    background-color: rgb(251, 205, 79);
+    background-color: #800000;
 }
 .speedometer-scale-12.active {
-    background-color: rgb(251, 168, 79);
+    background-color:#800000;
 }
 .speedometer-scale-13.active {
-    background-color: rgb(251, 139, 79);
+    background-color: #800000;
 }
 .speedometer-scale-14.active {
-    background-color: rgb(251, 122, 79);
+    background-color:#800000;
 }
 .speedometer-scale-15.active {
-    background-color: rgb(251, 99, 79);
+    background-color: #800000;
 }
 .speedometer-scale-16.active {
-    background-color: rgb(251, 90, 79);
+    background-color: #800000;
 }
 .speedometer-scale-17.active {
-    background-color: rgb(247, 61, 47);
+    background-color: #800000;
 }
 .speedometer-scale-18.active {
-    background-color: rgb(247, 47, 47);
+    background-color: #800000;
 }
 .speedometer-scale-19.active {
-    background-color: rgb(255, 0, 0);
+    background-color: #800000;
 }
 
 .speedometer-center-hide {
@@ -300,11 +300,11 @@ h1, p {
 }
 
 .increase {
-    background-color: green;
+    background-color: black;
 }
 
 .decrease {
-    background-color: red;
+    background-color: black;
 }
 
 .speedometer-text {
