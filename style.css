@@ -175,7 +175,7 @@ h1, p {
 .speedometer-center-hide {
     width: 250px;
     height: 250px;
-    background-color: #fafad2;
+    background-color: transperant;
     border-radius: 50%;
     position: absolute;
     top: 22px;
@@ -186,7 +186,7 @@ h1, p {
 .speedometer-bottom-hide {
     width: 320px;
     height: 250px;
-    background-color: #fafad2;
+    background-color: transperant;
     position: absolute;
     z-index: 11;
     top: 160px;
